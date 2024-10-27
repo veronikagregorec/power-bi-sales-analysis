@@ -2,6 +2,19 @@
 
 Sales analysis using Power BI.
 
+### Chapters
+- Data Modeling
+- DAX Measuers: 
+   - MoM
+   - sum
+   - countrows
+   - related
+   - latest date
+   - divide
+   - calculate
+   - previousmonth (MoM Changes)
+- Dashboard Design 
+
 ## Run Localy
 
 Clone the project
