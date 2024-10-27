@@ -9,7 +9,7 @@ Sales analysis using Power BI.
    - sum
    - countrows
    - related
-   - latest date
+   - latestdate
    - divide
    - calculate
    - previousmonth (MoM Changes)
